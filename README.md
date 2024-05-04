@@ -14,7 +14,6 @@
 - 🏢 I'm a Web devoloper Student
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I hate technology and social media.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
